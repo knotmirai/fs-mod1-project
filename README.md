@@ -25,11 +25,11 @@ A movie-related data is from:
 
 ## Working File
 
-* <b>student.ipynb</b>
+* [student.ipynb](https://github.com/knotmirai/fs-mod1-project/blob/master/student.ipynb)
 
 ## Result File
 
-* (presentation.pdf) (https://github.com/knotmirai/fs-mod1-project/blob/master/presentation.pdf)
+* [presentation.pdf](https://github.com/knotmirai/fs-mod1-project/blob/master/presentation.pdf)
 
 ## Summary
 
