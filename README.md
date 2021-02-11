@@ -41,7 +41,7 @@ The popularity affects the worldwide gross, especially the popularity less than 
 
 For the future, I should include more factors to increase the accuracy, such as:
 
-* casts or producers.
+* casts or producers
 * releasing time
 * more specific budget range
 
