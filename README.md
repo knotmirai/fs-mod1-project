@@ -29,7 +29,7 @@ A movie-related data is from:
 
 ## Result File
 
-* [presentation.pdf] (https://github.com/knotmirai/fs-mod1-project/blob/master/presentation.pdf)
+* (presentation.pdf) (https://github.com/knotmirai/fs-mod1-project/blob/master/presentation.pdf)
 
 ## Summary
 
